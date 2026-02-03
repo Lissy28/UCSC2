@@ -116,7 +116,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Gt_IGMats_mat
-bigDataUrl ../4C_BigWig/Ast_Gt_IGMats_Bl6_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_IG_Mats_Bl6_mat.bw
 shortLabel Ast_Gt_IGMats_mat_Bl6
 longLabel Ast_Gt_IGMats_mat_Bl6
 parent Ast_Gt_IGMats
@@ -124,7 +124,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Gt_IGMats_pat
-bigDataUrl ../4C_BigWig/Ast_Gt_IGMats_Cast_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_IG_Mats_Cast_pat.bw
 shortLabel Ast_Gt_IGMats_pat_Cast
 longLabel Ast_Gt_IGMats_pat_Cast
 parent Ast_Gt_IGMats
@@ -166,7 +166,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Gt_IGPats_pat
-bigDataUrl ../4C_BigWig/Ast_Gt_IGPats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_IG_Pats_Bl6_pat.bw
 shortLabel Ast_Gt_IGPats_pat_Bl6
 longLabel Ast_Gt_IGPats_pat_Bl6
 parent Ast_Gt_IGPats
@@ -174,7 +174,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Gt_IGPats_mat
-bigDataUrl ../4C_BigWig/Ast_Gt_IGPats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_IG_Pats_Cast_mat.bw
 shortLabel Ast_Gt_IGPats_mat_Cast
 longLabel Ast_Gt_IGPats_mat_Cast
 parent Ast_Gt_IGPats
@@ -215,7 +215,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Gt_895Mats_mat
-bigDataUrl ../4C_BigWig/Ast_Gt_895Mats_Bl6_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_895_Mats_Bl6_mat.bw
 shortLabel Ast_Gt_895Mats_mat_Bl6
 longLabel Ast_Gt_895Mats_mat_Bl6
 parent Ast_Gt_895Mats
@@ -223,7 +223,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Gt_895Mats_pat
-bigDataUrl ../4C_BigWig/Ast_Gt_895Mats_Cast_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_895_Mats_Cast_pat.bw
 shortLabel Ast_Gt_895Mats_pat_Cast
 longLabel Ast_Gt_895Mats_pat_Cast
 parent Ast_Gt_895Mats
@@ -264,7 +264,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Gt_895Pats_pat
-bigDataUrl ../4C_BigWig/Ast_Gt_895Pats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_895_Pats_Bl6_pat.bw
 shortLabel Ast_Gt_895Pats_pat_Bl6
 longLabel Ast_Gt_895Pats_pat_Bl6
 parent Ast_Gt_895Pats
@@ -272,7 +272,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Gt_895Pats_mat
-bigDataUrl ../4C_BigWig/Ast_Gt_895Pats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_895_Pats_Cast_mat.bw
 shortLabel Ast_Gt_895Pats_mat_Cast
 longLabel Ast_Gt_895Pats_mat_Cast
 parent Ast_Gt_895Pats
@@ -313,7 +313,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Gt_C6Mats_mat
-bigDataUrl ../4C_BigWig/Ast_Gt_C6Mats_Bl6_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_C6_Mats_Bl6_mat.bw
 shortLabel Ast_Gt_C6Mats_mat_Bl6
 longLabel Ast_Gt_C6Mats_mat_Bl6
 parent Ast_Gt_C6Mats
@@ -321,7 +321,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Gt_C6Mats_pat
-bigDataUrl ../4C_BigWig/Ast_Gt_C6Mats_Cast_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_C6_Mats_Cast_pat.bw
 shortLabel Ast_Gt_C6Mats_pat_Cast
 longLabel Ast_Gt_C6Mats_pat_Cast
 parent Ast_Gt_C6Mats
@@ -363,7 +363,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Gt_C6Pats_pat
-bigDataUrl ../4C_BigWig/Ast_Gt_C6Pats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_C6_Pats_Bl6_pat.bw
 shortLabel Ast_Gt_C6Pats_pat_Bl6
 longLabel Ast_Gt_C6Pats_pat_Bl6
 parent Ast_Gt_C6Pats
@@ -371,7 +371,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Gt_C6Pats_mat
-bigDataUrl ../4C_BigWig/Ast_Gt_C6Pats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_C6_Pats_Cast_mat.bw
 shortLabel Ast_Gt_C6Pats_mat_Cast
 longLabel Ast_Gt_C6Pats_mat_Cast
 parent Ast_Gt_C6Pats
@@ -412,7 +412,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Gt_C7Mats_mat
-bigDataUrl ../4C_BigWig/Ast_Gt_C7Mats_Bl6_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_C7_Mats_Bl6_mat.bw
 shortLabel Ast_Gt_C7Mats_mat_Bl6
 longLabel Ast_Gt_C7Mats_mat_Bl6
 parent Ast_Gt_C7Mats
@@ -420,7 +420,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Gt_C7Mats_pat
-bigDataUrl ../4C_BigWig/Ast_Gt_C7Mats_Cast_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_C7_Mats_Cast_pat.bw
 shortLabel Ast_Gt_C7Mats_pat_Cast
 longLabel Ast_Gt_C7Mats_pat_Cast
 parent Ast_Gt_C7Mats
@@ -428,7 +428,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Gt_C7Mats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Gt_C7Mats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_C7_Mats_MatPatDiff.bw
 shortLabel Ast_Gt_C7Mats_MatPatDiff
 longLabel Ast_Gt_C7Mats_MatPatDiff
 visibility full
@@ -462,7 +462,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Gt_C7Pats_pat
-bigDataUrl ../4C_BigWig/Ast_Gt_C7Pats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_C7_Pats_Bl6_pat.bw
 shortLabel Ast_Gt_C7Pats_pat_Bl6
 longLabel Ast_Gt_C7Pats_pat_Bl6
 parent Ast_Gt_C7Pats
@@ -470,7 +470,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Gt_C7Pats_mat
-bigDataUrl ../4C_BigWig/Ast_Gt_C7Pats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_C7_Pats_Cast_mat.bw
 shortLabel Ast_Gt_C7Pats_mat_Cast
 longLabel Ast_Gt_C7Pats_mat_Cast
 parent Ast_Gt_C7Pats
@@ -478,7 +478,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Gt_C7Pats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Gt_C7Pats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_C7_Pats_MatPatDiff.bw
 shortLabel Ast_Gt_C7Pats_MatPatDiff
 longLabel Ast_Gt_C7Pats_MatPatDiff
 visibility full
@@ -511,7 +511,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Gt_IndelMats_mat
-bigDataUrl ../4C_BigWig/Ast_Gt_IndelMats_Bl6_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_Ind_Mats_Bl6_mat.bw
 shortLabel Ast_Gt_IndelMats_mat_Bl6
 longLabel Ast_Gt_IndelMats_mat_Bl6
 parent Ast_Gt_IndelMats
@@ -519,7 +519,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Gt_IndelMats_pat
-bigDataUrl ../4C_BigWig/Ast_Gt_IndelMats_Cast_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_Ind_Mats_Cast_pat.bw
 shortLabel Ast_Gt_IndelMats_pat_Cast
 longLabel Ast_Gt_IndelMats_pat_Cast
 parent Ast_Gt_IndelMats
@@ -527,7 +527,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Gt_IndelMats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Gt_IndelMats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_Ind_Mats_MatPatDiff.bw
 shortLabel Ast_Gt_IndelMats_MatPatDiff
 longLabel Ast_Gt_IndelMats_MatPatDiff
 visibility full
@@ -560,7 +560,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Gt_IndelPats_pat
-bigDataUrl ../4C_BigWig/Ast_Gt_IndelPats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_Ind_Pats_Bl6_pat.bw
 shortLabel Ast_Gt_IndelPats_pat_Bl6
 longLabel Ast_Gt_IndelPats_pat_Bl6
 parent Ast_Gt_IndelPats
@@ -568,7 +568,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Gt_IndelPats_mat
-bigDataUrl ../4C_BigWig/Ast_Gt_IndelPats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_Ind_Pats_Cast_mat.bw
 shortLabel Ast_Gt_IndelPats_mat_Cast
 longLabel Ast_Gt_IndelPats_mat_Cast
 parent Ast_Gt_IndelPats
@@ -576,7 +576,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Gt_IndelPats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Gt_IndelPats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_Ind_Pats_MatPatDiff.bw
 shortLabel Ast_Gt_IndelPats_MatPatDiff
 longLabel Ast_Gt_IndelPats_MatPatDiff
 visibility full
@@ -609,7 +609,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Gt_CGIPats_pat
-bigDataUrl ../4C_BigWig/Ast_Gt_CGIPats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_CGI_Pats_Bl6_pat.bw
 shortLabel Ast_Gt_CGIPats_pat_Bl6
 longLabel Ast_Gt_CGIPats_pat_Bl6
 parent Ast_Gt_CGIPats
@@ -617,7 +617,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Gt_CGIPats_mat
-bigDataUrl ../4C_BigWig/Ast_Gt_CGIPats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_CGI_Pats_Cast_mat.bw
 shortLabel Ast_Gt_CGIPats_mat_Cast
 longLabel Ast_Gt_CGIPats_mat_Cast
 parent Ast_Gt_CGIPats
@@ -855,7 +855,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Dl_IGMats_mat
-bigDataUrl ../4C_BigWig/Ast_Dl_IGMats_Bl6_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_IG_Mats_Bl6_mat.bw
 shortLabel Ast_Dl_IGMats_mat_Bl6
 longLabel Ast_Dl_IGMats_mat_Bl6
 parent Ast_Dl_IGMats
@@ -863,7 +863,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Dl_IGMats_pat
-bigDataUrl ../4C_BigWig/Ast_Dl_IGMats_Cast_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_IG_Mats_Cast_pat.bw
 shortLabel Ast_Dl_IGMats_pat_Cast
 longLabel Ast_Dl_IGMats_pat_Cast
 parent Ast_Dl_IGMats
@@ -871,7 +871,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Dl_IGMats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Dl_IGMats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_IG_Mats_MatPatDiff.bw
 shortLabel Ast_Dl_IGMats_MatPatDiff
 longLabel Ast_Dl_IGMats_MatPatDiff
 visibility full
@@ -905,7 +905,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Dl_IGPats_pat
-bigDataUrl ../4C_BigWig/Ast_Dl_IGPats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_IG_Pats_Bl6_pat.bw
 shortLabel Ast_Dl_IGPats_pat_Bl6
 longLabel Ast_Dl_IGPats_pat_Bl6
 parent Ast_Dl_IGPats
@@ -913,7 +913,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Dl_IGPats_mat
-bigDataUrl ../4C_BigWig/Ast_Dl_IGPats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_IG_Pats_Cast_mat.bw
 shortLabel Ast_Dl_CB_Wts_mat_Cast
 longLabel Ast_Dl_CB_Wts_mat_Cast
 parent Ast_Dl_IGPats
@@ -921,7 +921,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Dl_IGPats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Dl_IGPats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_IG_Pats_MatPatDiff.bw
 shortLabel Ast_Dl_IGPats_MatPatDiff
 longLabel Ast_Dl_IGPats_MatPatDiff
 visibility full
@@ -954,7 +954,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Dl_895Mats_mat
-bigDataUrl ../4C_BigWig/Ast_Dl_895Mats_Bl6_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_895_Mats_Bl6_mat.bw
 shortLabel Ast_Dl_895Mats_mat_Bl6
 longLabel Ast_Dl_895Mats_mat_Bl6
 parent Ast_Dl_895Mats
@@ -962,7 +962,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Dl_895Mats_pat
-bigDataUrl ../4C_BigWig/Ast_Dl_895Mats_Cast_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_895_Mats_Cast_pat.bw
 shortLabel Ast_Dl_895Mats_pat_Cast
 longLabel Ast_Dl_895Mats_pat_Cast
 parent Ast_Dl_895Mats
@@ -970,7 +970,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Dl_895Mats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Dl_895Mats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_895_Mats_MatPatDiff.bw
 shortLabel Ast_Dl_895Mats_MatPatDiff
 longLabel Ast_Dl_895Mats_MatPatDiff
 visibility full
@@ -1003,7 +1003,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Dl_895Pats_pat
-bigDataUrl ../4C_BigWig/Ast_Dl_895Pats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_895_Pats_Bl6_pat.bw
 shortLabel Ast_Dl_895Pats_pat_Bl6
 longLabel Ast_Dl_895Pats_pat_Bl6
 parent Ast_Dl_895Pats
@@ -1011,7 +1011,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Dl_895Pats_mat
-bigDataUrl ../4C_BigWig/Ast_Dl_895Pats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_895_Pats_Cast_mat.bw
 shortLabel Ast_Dl_895Pats_mat_Cast
 longLabel Ast_Dl_895Pats_mat_Cast
 parent Ast_Dl_895Pats
@@ -1019,7 +1019,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Dl_895Pats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Dl_895Pats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_895_Pats_MatPatDiff.bw
 shortLabel Ast_Dl_895Pats_MatPatDiff
 longLabel Ast_Dl_895Pats_MatPatDiff
 visibility full
@@ -1052,7 +1052,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Dl_C6Mats_mat
-bigDataUrl ../4C_BigWig/Ast_Dl_C6Mats_Bl6_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C6_Mats_Bl6_mat.bw
 shortLabel Ast_Dl_C6Mats_mat_Bl6
 longLabel Ast_Dl_C6Mats_mat_Bl6
 parent Ast_Dl_C6Mats
@@ -1060,7 +1060,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Dl_C6Mats_pat
-bigDataUrl ../4C_BigWig/Ast_Dl_C6Mats_Cast_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C6_Mats_Cast_pat.bw
 shortLabel Ast_Dl_C6Mats_pat_Cast
 longLabel Ast_Dl_C6Mats_pat_Cast
 parent Ast_Dl_C6Mats
@@ -1068,7 +1068,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Dl_C6Mats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Dl_C6Mats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C6_Mats_MatPatDiff.bw
 shortLabel Ast_Dl_C6Mats_MatPatDiff
 longLabel Ast_Dl_C6Mats_MatPatDiff
 visibility full
@@ -1102,7 +1102,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Dl_C6Pats_pat
-bigDataUrl ../4C_BigWig/Ast_Dl_C6Pats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C6_Pats_Bl6_pat.bw
 shortLabel Ast_Dl_C6Pats_pat_Bl6
 longLabel Ast_Dl_C6Pats_pat_Bl6
 parent Ast_Dl_C6Pats
@@ -1110,7 +1110,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Dl_C6Pats_mat
-bigDataUrl ../4C_BigWig/Ast_Dl_C6Pats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C6_Pats_Cast_mat.bw
 shortLabel Ast_Dl_C6Pats_mat_Cast
 longLabel Ast_Dl_C6Pats_mat_Cast
 parent Ast_Dl_C6Pats
@@ -1118,7 +1118,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Dl_C6Pats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Dl_C6Pats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C6_Pats_MatPatDiff.bw
 shortLabel Ast_Dl_C6Pats_MatPatDiff
 longLabel Ast_Dl_C6Pats_MatPatDiff
 visibility full
@@ -1151,7 +1151,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Dl_C7Mats_mat
-bigDataUrl ../4C_BigWig/Ast_Dl_C7Mats_Bl6_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C7_Mats_Bl6_mat.bw
 shortLabel Ast_Dl_C7Mats_mat_Bl6
 longLabel Ast_Dl_C7Mats_mat_Bl6
 parent Ast_Dl_C7Mats
@@ -1159,7 +1159,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Dl_C7Mats_pat
-bigDataUrl ../4C_BigWig/Ast_Dl_C7Mats_Cast_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C7_Mats_Cast_pat.bw
 shortLabel Ast_Dl_C7Mats_pat_Cast
 longLabel Ast_Dl_C7Mats_pat_Cast
 parent Ast_Dl_C7Mats
@@ -1167,7 +1167,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Dl_C7Mats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Dl_C7Mats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C7_Mats_MatPatDiff.bw
 shortLabel Ast_Dl_C7Mats_MatPatDiff
 longLabel Ast_Dl_C7Mats_MatPatDiff
 visibility full
@@ -1201,7 +1201,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Dl_C7Pats_pat
-bigDataUrl ../4C_BigWig/Ast_Dl_C7Pats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C7_Pats_Bl6_pat.bw
 shortLabel Ast_Dl_C7Pats_pat_Bl6
 longLabel Ast_Dl_C7Pats_pat_Bl6
 parent Ast_Dl_C7Pats
@@ -1209,7 +1209,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Dl_C7Pats_mat
-bigDataUrl ../4C_BigWig/Ast_Dl_C7Pats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C7_Pats_Cast_mat.bw
 shortLabel Ast_Dl_C7Pats_mat_Cast
 longLabel Ast_Dl_C7Pats_mat_Cast
 parent Ast_Dl_C7Pats
@@ -1217,7 +1217,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Dl_C7Pats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Dl_C7Pats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C7_Pats_MatPatDiff.bw
 shortLabel Ast_Dl_C7Pats_MatPatDiff
 longLabel Ast_Dl_C7Pats_MatPatDiff
 visibility full
@@ -1250,7 +1250,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Dl_IndelMats_mat
-bigDataUrl ../4C_BigWig/Ast_Dl_IndMats_Bl6_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Mats_Bl6_mat.bw
 shortLabel Ast_Dl_IndelMats_mat_Bl6
 longLabel Ast_Dl_IndelMats_mat_Bl6
 parent Ast_Dl_IndelMats
@@ -1258,7 +1258,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Dl_IndelMats_pat
-bigDataUrl ../4C_BigWig/Ast_Dl_IndMats_Cast_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Mats_Cast_pat.bw
 shortLabel Ast_Dl_IndelMats_pat_Cast
 longLabel Ast_Dl_IndelMats_pat_Cast
 parent Ast_Dl_IndelMats
@@ -1266,7 +1266,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Dl_IndelMats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Dl_IndMats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Mats_MatPatDiff.bw
 shortLabel Ast_Dl_IndelMats_MatPatDiff
 longLabel Ast_Dl_IndelMats_MatPatDiff
 visibility full
@@ -1299,7 +1299,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Dl_IndelPats_pat
-bigDataUrl ../4C_BigWig/Ast_Dl_IndPats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Pats_Bl6_pat.bw
 shortLabel Ast_Dl_IndelPats_pat_Bl6
 longLabel Ast_Dl_IndelPats_pat_Bl6
 parent Ast_Dl_IndelPats
@@ -1307,7 +1307,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Dl_IndelPats_mat
-bigDataUrl ../4C_BigWig/Ast_Dl_IndPats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Pats_Cast_mat.bw
 shortLabel Ast_Dl_IndelPats_mat_Cast
 longLabel Ast_Dl_IndelPats_mat_Cast
 parent Ast_Dl_IndelPats
@@ -1315,7 +1315,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Dl_IndelPats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Dl_IndPats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Pats_MatPatDiff.bw
 shortLabel Ast_Dl_IndelPats_MatPatDiff
 longLabel Ast_Dl_IndelPats_MatPatDiff
 visibility full
@@ -1348,7 +1348,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Dl_CGIPats_pat
-bigDataUrl ../4C_BigWig/Ast_Dl_CGIPats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_CGI_Pats_Bl6_pat.bw
 shortLabel Ast_Dl_CGIPats_pat_Bl6
 longLabel Ast_Dl_CGIPats_pat_Bl6
 parent Ast_Dl_CGIPats
@@ -1356,7 +1356,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Dl_CGIPats_mat
-bigDataUrl ../4C_BigWig/Ast_Dl_CGIPats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_CGI_Pats_Cast_mat.bw
 shortLabel Ast_Dl_CGIPats_mat_Cast
 longLabel Ast_Dl_CGIPats_mat_Cast
 parent Ast_Dl_CGIPats
@@ -1364,7 +1364,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Dl_CGIPats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Dl_CGIPats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_CGI_Pats_MatPatDiff.bw
 shortLabel Ast_Dl_CGIPats_MatPatDiff
 longLabel Ast_Dl_CGIPats_MatPatDiff
 visibility full
@@ -1477,104 +1477,6 @@ altColor 0,150,255
 maxHeightPixels 100:50:8
 type bigWig
 
-track Ast_Wd_IGMats
-container multiWig
-shortLabel Ast_Wd_IGMats
-longLabel Ast_Wd_IGMats
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Ast_Wd_IGMats_mat
-bigDataUrl ../4C_BigWig/Ast_Wd_IGMats_Bl6_mat.bw
-shortLabel Ast_Wd_IGMats_mat_Bl6
-longLabel Ast_Wd_IGMats_mat_Bl6
-parent Ast_Wd_IGMats
-color 255,0,0
-type bigWig
-
-track Ast_Wd_IGMats_pat
-bigDataUrl ../4C_BigWig/Ast_Wd_IGMats_Cast_pat.bw
-shortLabel Ast_Wd_IGMats_pat_Cast
-longLabel Ast_Wd_IGMats_pat_Cast
-parent Ast_Wd_IGMats
-color 0,150,255
-type bigWig
-
-track Ast_Wd_IGMats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Wd_IGMats_MatPatDiff.bw
-shortLabel Ast_Wd_IGMats_MatPatDiff
-longLabel Ast_Wd_IGMats_MatPatDiff
-visibility full
-autoScale off
-viewLimits -200:200
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-
-track Ast_Wd_IGPats
-container multiWig
-shortLabel Ast_Wd_IGPats
-longLabel Ast_Wd_IGPats
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Ast_Wd_IGPats_pat
-bigDataUrl ../4C_BigWig/Ast_Wd_IGPats_Bl6_pat.bw
-shortLabel Ast_Wd_IGPats_pat_Bl6
-longLabel Ast_Wd_IGPats_pat_Bl6
-parent Ast_Wd_IGPats
-color 0,150,255
-type bigWig
-
-track Ast_Wd_IGPats_mat
-bigDataUrl ../4C_BigWig/Ast_Wd_IGPats_Cast_mat.bw
-shortLabel Ast_Wd_IGPats_mat_Cast
-longLabel Ast_Wd_IGPats_mat_Cast
-parent Ast_Wd_IGPats
-color 255,0,0
-type bigWig
-
-track Ast_Wd_IGPats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Wd_IGPats_MatPatDiff.bw
-shortLabel Ast_Wd_IGPats_MatPatDiff
-longLabel Ast_Wd_IGPats_MatPatDiff
-visibility full
-autoScale off
-viewLimits -200:200
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
 
 track Ast_Wd_895Mats
 container multiWig
@@ -1594,7 +1496,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Wd_895Mats_mat
-bigDataUrl ../4C_BigWig/Ast_Wd_895Mats_Bl6_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Wd_895_Mats_Bl6_mat.bw
 shortLabel Ast_Wd_895Mats_mat_Bl6
 longLabel Ast_Wd_895Mats_mat_Bl6
 parent Ast_Wd_895Mats
@@ -1602,7 +1504,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Wd_895Mats_pat
-bigDataUrl ../4C_BigWig/Ast_Wd_895Mats_Cast_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Wd_895_Mats_Cast_pat.bw
 shortLabel Ast_Wd_895Mats_pat_Cast
 longLabel Ast_Wd_895Mats_pat_Cast
 parent Ast_Wd_895Mats
@@ -1610,7 +1512,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Wd_895Mats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Wd_895Mats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Wd_895_Mats_MatPatDiff.bw
 shortLabel Ast_Wd_895Mats_MatPatDiff
 longLabel Ast_Wd_895Mats_MatPatDiff
 visibility full
@@ -1643,7 +1545,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Wd_895Pats_pat
-bigDataUrl ../4C_BigWig/Ast_Wd_895Pats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Wd_895_Pats_Bl6_pat.bw
 shortLabel Ast_Wd_895Pats_pat_Bl6
 longLabel Ast_Wd_895Pats_pat_Bl6
 parent Ast_Wd_895Pats
@@ -1651,7 +1553,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Wd_895Pats_mat
-bigDataUrl ../4C_BigWig/Ast_Wd_895Pats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Wd_895_Pats_Cast_mat.bw
 shortLabel Ast_Wd_895Pats_mat_Cast
 longLabel Ast_Wd_895Pats_mat_Cast
 parent Ast_Wd_895Pats
@@ -1659,7 +1561,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Wd_895Pats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Wd_895Pats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Wd_895_Pats_MatPatDiff.bw
 shortLabel Ast_Wd_895Pats_MatPatDiff
 longLabel Ast_Wd_895Pats_MatPatDiff
 visibility full
@@ -1674,301 +1576,6 @@ altColor 0,150,255
 maxHeightPixels 100:50:8
 type bigWig
 
-track Ast_Wd_C6Mats
-container multiWig
-shortLabel Ast_Wd_C6Mats
-longLabel Ast_Wd_C6Mats
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Ast_Wd_C6Mats_mat
-bigDataUrl ../4C_BigWig/Ast_Wd_C6Mats_Bl6_mat.bw
-shortLabel Ast_Wd_C6Mats_mat_Bl6
-longLabel Ast_Wd_C6Mats_mat_Bl6
-parent Ast_Wd_C6Mats
-color 255,0,0
-type bigWig
-
-track Ast_Wd_C6Mats_pat
-bigDataUrl ../4C_BigWig/Ast_Wd_C6Mats_Cast_pat.bw
-shortLabel Ast_Wd_C6Mats_pat_Cast
-longLabel Ast_Wd_C6Mats_pat_Cast
-parent Ast_Wd_C6Mats
-color 0,150,255
-type bigWig
-
-track Ast_Wd_C6Mats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Wd_C6Mats_MatPatDiff.bw
-shortLabel Ast_Wd_C6Mats_MatPatDiff
-longLabel Ast_Wd_C6Mats_MatPatDiff
-visibility full
-autoScale off
-viewLimits -200:200
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-
-track Ast_Wd_C6Pats
-container multiWig
-shortLabel Ast_Wd_C6Pats
-longLabel Ast_Wd_C6Pats
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Ast_Wd_C6Pats_pat
-bigDataUrl ../4C_BigWig/Ast_Wd_C6Pats_Bl6_pat.bw
-shortLabel Ast_Wd_C6Pats_pat_Bl6
-longLabel Ast_Wd_C6Pats_pat_Bl6
-parent Ast_Wd_C6Pats
-color 0,150,255
-type bigWig
-
-track Ast_Wd_C6Pats_mat
-bigDataUrl ../4C_BigWig/Ast_Wd_C6Pats_Cast_mat.bw
-shortLabel Ast_Wd_C6Pats_mat_Cast
-longLabel Ast_Wd_C6Pats_mat_Cast
-parent Ast_Wd_C6Pats
-color 255,0,0
-type bigWig
-
-track Ast_Wd_C6Pats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Wd_C6Pats_MatPatDiff.bw
-shortLabel Ast_Wd_C6Pats_MatPatDiff
-longLabel Ast_Wd_C6Pats_MatPatDiff
-visibility full
-autoScale off
-viewLimits -200:200
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-track Ast_Wd_C7Mats
-container multiWig
-shortLabel Ast_Wd_C7Mats
-longLabel Ast_Wd_C7Mats
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Ast_Wd_C7Mats_mat
-bigDataUrl ../4C_BigWig/Ast_Wd_C7Mats_CBA_mat.bw
-shortLabel Ast_Wd_C7Mats_CBA_mat
-longLabel Ast_Wd_C7Mats_CBA_mat
-parent Ast_Wd_C7Mats
-color 255,0,0
-type bigWig
-
-track Ast_Wd_C7Mats_pat
-bigDataUrl ../4C_BigWig/Ast_Wd_C7Mats_Bl6_pat.bw
-shortLabel Ast_Wd_C7Mats_pat_Bl6
-longLabel Ast_Wd_C7Mats_pat_Bl6
-parent Ast_Wd_C7Mats
-color 0,150,255
-type bigWig
-
-track Ast_Wd_C7Mats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Wd_C7Mats_MatPatDiff.bw
-shortLabel Ast_Wd_C7Mats_MatPatDiff
-longLabel Ast_Wd_C7Mats_MatPatDiff
-visibility full
-autoScale off
-viewLimits -200:200
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-
-track Ast_Wd_C7Pats
-container multiWig
-shortLabel Ast_Wd_C7Pats
-longLabel Ast_Wd_C7Pats
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Ast_Wd_C7Pats_pat
-bigDataUrl ../4C_BigWig/Ast_Wd_C7Pats_CBA_pat.bw
-shortLabel Ast_Wd_C7Pats_CBA_pat
-longLabel Ast_Wd_C7Pats_CBA_pat
-parent Ast_Wd_C7Pats
-color 0,150,255
-type bigWig
-
-track Ast_Wd_C7Pats_mat
-bigDataUrl ../4C_BigWig/Ast_Wd_C7Pats_Bl6_mat.bw
-shortLabel Ast_Wd_C7Pats_mat_Bl6
-longLabel Ast_Wd_C7Pats_mat_Bl6
-parent Ast_Wd_C7Pats
-color 255,0,0
-type bigWig
-
-track Ast_Wd_C7Pats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Wd_C7Pats_MatPatDiff.bw
-shortLabel Ast_Wd_C7Pats_MatPatDiff
-longLabel Ast_Wd_C7Pats_MatPatDiff
-visibility full
-autoScale off
-viewLimits -200:200
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-track Ast_Wd_IndelMats
-container multiWig
-shortLabel Ast_Wd_IndelMats
-longLabel Ast_Wd_IndelMats
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Ast_Wd_IndelMats_mat
-bigDataUrl ../4C_BigWig/Ast_Wd_IndMats_CBA_mat.bw
-shortLabel Ast_Wd_IndelMats_CBA_mat
-longLabel Ast_Wd_IndelMats_CBA_mat
-parent Ast_Wd_IndelMats
-color 255,0,0
-type bigWig
-
-track Ast_Wd_IndelMats_pat
-bigDataUrl ../4C_BigWig/Ast_Wd_IndMats_Bl6_pat.bw
-shortLabel Ast_Wd_IndelMats_pat_Bl6
-longLabel Ast_Wd_IndelMats_pat_Bl6
-parent Ast_Wd_IndelMats
-color 0,150,255
-type bigWig
-
-track Ast_Wd_IndelMats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Wd_IndMats_MatPatDiff.bw
-shortLabel Ast_Wd_IndelMats_MatPatDiff
-longLabel Ast_Wd_IndelMats_MatPatDiff
-visibility full
-autoScale off
-viewLimits -200:200
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-track Ast_Wd_IndelPats
-container multiWig
-shortLabel Ast_Wd_IndelPats
-longLabel Ast_Wd_IndelPats
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Ast_Wd_IndelPats_pat
-bigDataUrl ../4C_BigWig/Ast_Wd_IndPats_CBA_pat.bw
-shortLabel Ast_Wd_IndelPats_CBA_pat
-longLabel Ast_Wd_IndelPats_CBA_pat
-parent Ast_Wd_IndelPats
-color 0,150,255
-type bigWig
-
-track Ast_Wd_IndelPats_mat
-bigDataUrl ../4C_BigWig/Ast_Wd_IndPats_Bl6_mat.bw
-shortLabel Ast_Wd_IndelPats_mat_Bl6
-longLabel Ast_Wd_IndelPats_mat_Bl6
-parent Ast_Wd_IndelPats
-color 255,0,0
-type bigWig
-
-track Ast_Wd_IndelPats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Wd_IndPats_MatPatDiff.bw
-shortLabel Ast_Wd_IndelPats_MatPatDiff
-longLabel Ast_Wd_IndelPats_MatPatDiff
-visibility full
-autoScale off
-viewLimits -200:200
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
 
 track Ast_Wd_CGIPats
 container multiWig
@@ -1988,7 +1595,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Wd_CGIPats_pat
-bigDataUrl ../4C_BigWig/Ast_Wd_CGIPats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Wd_CGI_Pats_Bl6_pat.bw
 shortLabel Ast_Wd_CGIPats_pat_Bl6
 longLabel Ast_Wd_CGIPats_pat_Bl6
 parent Ast_Wd_CGIPats
@@ -1996,7 +1603,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Wd_CGIPats_mat
-bigDataUrl ../4C_BigWig/Ast_Wd_CGIPats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Wd_CGI_Pats_Cast_mat.bw
 shortLabel Ast_Wd_CGIPats_mat_Cast
 longLabel Ast_Wd_CGIPats_mat_Cast
 parent Ast_Wd_CGIPats
@@ -2004,7 +1611,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Wd_CGIPats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Wd_CGIPats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Wd_CGI_Pats_MatPatDiff.bw
 shortLabel Ast_Wd_CGIPats_MatPatDiff
 longLabel Ast_Wd_CGIPats_MatPatDiff
 visibility full
@@ -2019,517 +1626,7 @@ altColor 0,150,255
 maxHeightPixels 100:50:8
 type bigWig
 
-track Liv_Gt_BC_Wts
-container multiWig
-shortLabel Liv_Gt_BC_Wts
-longLabel Liv_Gt_BC_Wts
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
 
-track Liv_Gt_BC_Wts_mat
-bigDataUrl ../4C_BigWig/Liv_Gt_BC_Wts_Bl6_mat.bw
-shortLabel Liv_Gt_BC_Wts_mat_Bl6
-longLabel Liv_Gt_BC_Wts_mat_Bl6
-parent Liv_Gt_BC_Wts
-color 255,0,0
-type bigWig
-
-track Liv_Gt_BC_Wts_pat
-bigDataUrl ../4C_BigWig/Liv_Gt_BC_Wts_Cast_pat.bw
-shortLabel Liv_Gt_BC_Wts_pat_Cast
-longLabel Liv_Gt_BC_Wts_pat_Cast
-parent Liv_Gt_BC_Wts
-color 0,150,255
-type bigWig
-
-track Liv_Gt_BC_Wts_MatPatDiff
-bigDataUrl ../4C_BigWig/Liv_Gt_BC_Wts_MatPatDiff.bw
-shortLabel Liv_Gt_BC_Wts_MatPatDiff
-longLabel Liv_Gt_BC_Wts_MatPatDiff
-visibility full
-autoScale off
-viewLimits -200:200
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-
-track Liv_Gt_IGMats
-container multiWig
-shortLabel Liv_Gt_IGMats
-longLabel Liv_Gt_IGMats
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Liv_Gt_IGMats_mat
-bigDataUrl ../4C_BigWig/Liv_Gt_IGMats_Bl6_mat.bw
-shortLabel Liv_Gt_IGMats_mat_Bl6
-longLabel Liv_Gt_IGMats_mat_Bl6
-parent Liv_Gt_IGMats
-color 255,0,0
-type bigWig
-
-track Liv_Gt_IGMats_pat
-bigDataUrl ../4C_BigWig/Liv_Gt_IGMats_Cast_pat.bw
-shortLabel Liv_Gt_IGMats_pat_Cast
-longLabel Liv_Gt_IGMats_pat_Cast
-parent Liv_Gt_IGMats
-color 0,150,255
-type bigWig
-
-track Liv_Gt_IGMats_MatPatDiff
-bigDataUrl ../4C_BigWig/Liv_Gt_IGMats_MatPatDiff.bw
-shortLabel Liv_Gt_IGMats_MatPatDiff
-longLabel Liv_Gt_IGMats_MatPatDiff
-visibility full
-autoScale off
-viewLimits -200:200
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-track Liv_Wd_BC_Wts
-container multiWig
-shortLabel Liv_Wd_BC_Wts
-longLabel Liv_Wd_BC_Wts
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Liv_Wd_BC_Wts_mat
-bigDataUrl ../4C_BigWig/Liv_Wd_BC_Wts_Bl6_mat.bw
-shortLabel Liv_Wd_BC_Wts_mat_Bl6
-longLabel Liv_Wd_BC_Wts_mat_Bl6
-parent Liv_Wd_BC_Wts
-color 255,0,0
-type bigWig
-
-track Liv_Wd_BC_Wts_pat
-bigDataUrl ../4C_BigWig/Liv_Wd_BC_Wts_Cast_pat.bw
-shortLabel Liv_Wd_BC_Wts_pat_Cast
-longLabel Liv_Wd_BC_Wts_pat_Cast
-parent Liv_Wd_BC_Wts
-color 0,150,255
-type bigWig
-
-track Liv_Wd_BC_Wts_MatPatDiff
-bigDataUrl ../4C_BigWig/Liv_Wd_BC_Wts_MatPatDiff.bw
-shortLabel Liv_Wd_BC_Wts_MatPatDiff
-longLabel Liv_Wd_BC_Wts_MatPatDiff
-visibility full
-autoScale off
-viewLimits -200:200
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-track Gtl17_Liv_BC_WTs
-container multiWig
-shortLabel Gtl17_Liv_BC_WTs
-longLabel Gtl17_Liv_BC_WTs
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on 
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Gtl17_Liv_BC_WTs_Cast_Pat
-bigDataUrl ../4C_BigWig/Gtl17_Liv_BC_Pats.bw
-shortLabel Gt17_Liv_BC_Pat
-longLabel Gtl17_Liv_BC_WTs_Cast_Pat
-parent Gtl17_Liv_BC_WTs
-color 0,150,255
-type bigWig
-
-track Gtl17_Liv_BC_WTs_Bl6_Mat
-bigDataUrl ../4C_BigWig/Gtl17_Liv_BC_Mats.bw
-shortLabel Gt17_Liv_BC_Mat
-longLabel Gtl17_Liv_BC_WTs_Bl6_Mat
-parent Gtl17_Liv_BC_WTs
-color 255,0,0
-type bigWig
-
-track Gtl17_Liv_CB_WTs
-container multiWig
-shortLabel Gtl17_Liv_CB_WTs
-longLabel Gtl17_Liv_CB_WTs
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on 
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Gtl17_Liv_CB_WTs_Bl6_Pat
-bigDataUrl ../4C_BigWig/Gtl17_Liv_CB_Pats.bw
-shortLabel Gt17_Liv_CB_Pat
-longLabel Gtl17_Liv_CB_WTs_pat_Bl6
-parent Gtl17_Liv_CB_WTs
-color 0,150,255
-type bigWig
-
-track Gtl17_Liv_CB_WTs_Cast_Mat
-bigDataUrl ../4C_BigWig/Gtl17_Liv_CB_Mats.bw
-shortLabel Gt17_Liv_CB_Mat
-longLabel Gtl17_Liv_CB_WTs_mat_Cast
-parent Gtl17_Liv_CB_WTs
-color 255,0,0
-type bigWig
-
-
-track Gtl17_ESCs_BC_WTs
-container multiWig
-shortLabel Gtl17_ESCs_BC_WTs
-longLabel Gtl17_ESCs_BC_WTs
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on 
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Gtl17_ESCs_BC_WTs_Cast_Pat
-bigDataUrl ../4C_BigWig/Gtl17_ESCs_BC_Pats.bw
-shortLabel Gt17_ESCs_BC_Pat
-longLabel Gtl17_ESCs_BC_WTs_Cast_Pat
-parent Gtl17_ESCs_BC_WTs
-color 0,150,255
-type bigWig
-
-track Gtl17_ESCs_BC_WTs_Bl6_Mat
-bigDataUrl ../4C_BigWig/Gtl17_ESCs_BC_Mats.bw
-shortLabel Gt17_ESCs_BC_Mat
-longLabel Gtl17_ESCs_BC_WTs_Bl6_Mat
-parent Gtl17_ESCs_BC_WTs
-color 255,0,0
-type bigWig
-
-track Gtl17_ESCs_CB_WTs
-container multiWig
-shortLabel Gtl17_ESCs_CB_WTs
-longLabel Gtl17_ESCs_CB_WTs
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-yLineOnOff on 
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Gtl17_ESCs_CB_WTs_Bl6_Pat
-bigDataUrl ../4C_BigWig/Gtl17_ESCs_CB_Pats.bw
-shortLabel Gt17_ESCs_CB_Pat
-longLabel Gtl17_ESCs_CB_WTs_Bl6_Pat
-parent Gtl17_ESCs_CB_WTs
-color 0,150,255
-type bigWig
-
-track Gtl17_ESCs_CB_WTs_mat_Cast
-bigDataUrl ../4C_BigWig/Gtl17_ESCs_CB_Mats.bw
-shortLabel Gt17_ESCs_CB_Mat
-longLabel Gtl17_ESCs_CB_WTs_Cast_Mat
-parent Gtl17_ESCs_CB_WTs
-color 255,0,0
-type bigWig
-
-track Gtl17_Ast_BC_WTs
-container multiWig
-shortLabel Gtl17_Ast_BC_WTs
-longLabel Gtl17_Ast_BC_WTs
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-yLineOnOff on 
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Gtl17_Ast_BC_WTs_Cast_Pat
-bigDataUrl ../4C_BigWig/Gtl17_Ast_BC_Pats.bw
-shortLabel Gt17_Ast_BC_Pat
-longLabel Gtl17_Ast_BC_WTs_Cast_Pat
-parent Gtl17_Ast_BC_WTs
-color 0,150,255
-type bigWig
-
-track Gtl17_Ast_BC_WTs_Bl6_Mat
-bigDataUrl ../4C_BigWig/Gtl17_Ast_BC_Mats.bw
-shortLabel Gt17_Ast_BC_Mat
-longLabel Gtl17_Ast_BC_WTs_Bl6_Mat
-parent Gtl17_Ast_BC_WTs
-color 255,0,0
-type bigWig
-
-track Gtl17_Ast_CB_WTs
-container multiWig
-shortLabel Gtl17_Ast_CB_WTs
-longLabel Gtl17_Ast_CB_WTs
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-yLineOnOff on 
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Gtl17_Ast_CB_WTs_Bl6_Pat
-bigDataUrl ../4C_BigWig/Gtl17_Ast_CB_Pats.bw
-shortLabel Gt17_Ast_CB_Pat
-longLabel Gtl17_Ast_CB_WTs_Bl6_Pat
-parent Gtl17_Ast_CB_WTs
-color 0,150,255
-type bigWig
-
-track Gtl17_Ast_CB_WTs_Cast_Mat
-bigDataUrl ../4C_BigWig/Gtl17_Ast_CB_Mats.bw
-shortLabel Gt17_Ast_CB_Mat
-longLabel Gtl17_Ast_CB_WTs_Cast_Mat
-parent Gtl17_Ast_CB_WTs
-color 255,0,0
-type bigWig
-
-track Dlk15_Liver
-container multiWig
-shortLabel Dlk15_Liver
-longLabel Dlk15_Liver
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-yLineOnOff on 
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Dlk15_Liver_Pats
-bigDataUrl ../4C_BigWig/Dlk15_Liver_Pats.bw
-shortLabel Dlk15_Liver_Pats
-longLabel Dlk15_Liver_Pats
-parent Dlk15_Liver
-color 0,150,255
-type bigWig
-
-track Dlk15_Liver_Mats
-bigDataUrl ../4C_BigWig/Dlk15_Liver_Mats.bw
-shortLabel Dlk15_Liver_Mats
-longLabel Dlk15_Liver_Mats
-parent Dlk15_Liver
-color 255,0,0
-type bigWig
-
-track Dlk15_Brain
-container multiWig
-shortLabel Dlk15_Brain
-longLabel Dlk15_Brain
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-yLineOnOff on 
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Dlk15_Brain_Pats
-bigDataUrl ../4C_BigWig/Dlk15_Brain_Pats.bw
-shortLabel Dlk15_Brain_Pats
-longLabel Dlk15_Brain_Pats
-parent Dlk15_Brain
-color 0,150,255
-type bigWig
-
-track Dlk15_Brain_Mats
-bigDataUrl ../4C_BigWig/Dlk15_Brain_Mats.bw
-shortLabel Dlk15_Brain_Mats
-longLabel Dlk15_Brain_Mats
-parent Dlk15_Brain
-color 255,0,0
-type bigWig
-
-track IG15_Liver
-container multiWig
-shortLabel IG15_Liver
-longLabel IG15_Liver
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-yLineOnOff on 
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track IG15_Liver_Pats
-bigDataUrl ../4C_BigWig/IG15_Liver_Pats.bw
-shortLabel IG15_Liver_Pats
-longLabel IG15_Liver_Pats
-parent IG15_Liver
-color 0,150,255
-type bigWig
-
-track IG15_Liver_Mats
-bigDataUrl ../4C_BigWig/IG15_Liver_Mats.bw
-shortLabel IG15_Liver_Mats
-longLabel IG15_Liver_Mats
-parent IG15_Liver
-color 255,0,0
-type bigWig
-
-track IG15_Brain
-container multiWig
-shortLabel IG15_Brain
-longLabel IG15_Brain
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-yLineOnOff on 
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track IG15_Brain_Pats
-bigDataUrl ../4C_BigWig/IG15_Brain_Pats.bw
-shortLabel IG15_Brain_Pats
-longLabel IG15_Brain_Pats
-parent IG15_Brain
-color 0,150,255
-type bigWig
-
-track IG15_Brain_Mats
-bigDataUrl ../4C_BigWig/IG15_Brain_Mats.bw
-shortLabel IG15_Brain_Mats
-longLabel IG15_Brain_Mats
-parent IG15_Brain
-color 255,0,0
-type bigWig
-
-track IG15_ESCs
-container multiWig
-shortLabel IG15_ESCs
-longLabel IG15_ESCs
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-yLineOnOff on 
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track IG15_ESCs_Pats
-bigDataUrl ../4C_BigWig/IG15_ESCs_Pats.bw
-shortLabel IG15_ESCs_Pats
-longLabel IG15_ESCs_Pats
-parent IG15_ESCs
-color 0,150,255
-type bigWig
-
-track IG15_ESCs_Mats
-bigDataUrl ../4C_BigWig/IG15_ESCs_Mats.bw
-shortLabel IG15_ESCs_Mats
-longLabel IG15_ESCs_Mats
-parent IG15_ESCs
-color 255,0,0
-type bigWig
 
 track Ast_Gt_BC_Wts_Log2
 bigDataUrl ../4C_BigWig/Ast_Gt_BC_Wts_Log2.bw
@@ -2564,7 +1661,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Dl_BC_Wts_Log2
-bigDataUrl ../4C_BigWig/Ast_Dl_BC_Wts_Log2new.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_BC_Wts_Log2.bw
 shortLabel Ast_Dl_BC_Wts_Log2
 longLabel Ast_Dl_BC_Wts_Log2
 visibility full
@@ -2580,7 +1677,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Dl_CB_Wts_Log2
-bigDataUrl ../4C_BigWig/Ast_Dl_CB_Wts_Log2new.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_CB_Wts_Log2.bw
 shortLabel Ast_Dl_CB_Wts_Log2
 longLabel Ast_Dl_CB_Wts_Log2
 visibility full
@@ -2628,7 +1725,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Gt_IGMats_Log2
-bigDataUrl ../4C_BigWig/Ast_Gt_IGMats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_IG_Mats_Log2.bw
 shortLabel Ast_Gt_IGMats_Log2
 longLabel Ast_Gt_IGMats_Log2
 visibility full
@@ -2645,7 +1742,7 @@ type bigWig
 
 
 track Ast_Gt_IGPats_Log2
-bigDataUrl ../4C_BigWig/Ast_Gt_IGPats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_IG_Pats_Log2.bw
 shortLabel Ast_Gt_IGPats_Log2
 longLabel Ast_Gt_IGPats_Log2
 visibility full
@@ -2661,7 +1758,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Gt_895Mats_Log2
-bigDataUrl ../4C_BigWig/Ast_Gt_895Mats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_895_Mats_Log2.bw
 shortLabel Ast_Gt_895Mats_Log2
 longLabel Ast_Gt_895Mats_Log2
 visibility full
@@ -2678,7 +1775,7 @@ type bigWig
 
 
 track Ast_Gt_895Pats_Log2
-bigDataUrl ../4C_BigWig/Ast_Gt_895Pats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_895_Pats_Log2.bw
 shortLabel Ast_Gt_895Pats_Log2
 longLabel Ast_Gt_895Pats_Log2
 visibility full
@@ -2694,7 +1791,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Gt_C6Mats_Log2
-bigDataUrl ../4C_BigWig/Ast_Gt_C6Mats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_C6_Mats_Log2.bw
 shortLabel Ast_Gt_C6Mats_Log2
 longLabel Ast_Gt_C6Mats_Log2
 visibility full
@@ -2711,7 +1808,7 @@ type bigWig
 
 
 track Ast_Gt_C6Pats_Log2
-bigDataUrl ../4C_BigWig/Ast_Gt_C6Pats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_C6_Pats_Log2.bw
 shortLabel Ast_Gt_C6Pats_Log2
 longLabel Ast_Gt_C6Pats_Log2
 visibility full
@@ -2727,7 +1824,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Gt_C7Mats_Log2
-bigDataUrl ../4C_BigWig/Ast_Gt_C7Mats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_C7_Mats_Log2.bw
 shortLabel Ast_Gt_C7Mats_Log2
 longLabel Ast_Gt_C7Mats_Log2
 visibility full
@@ -2744,7 +1841,7 @@ type bigWig
 
 
 track Ast_Gt_C7Pats_Log2
-bigDataUrl ../4C_BigWig/Ast_Gt_C7Pats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_C7_Pats_Log2.bw
 shortLabel Ast_Gt_C7Pats_Log2
 longLabel Ast_Gt_C7Pats_Log2
 visibility full
@@ -2760,7 +1857,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Gt_IndMats_Log2
-bigDataUrl ../4C_BigWig/Ast_Gt_IndelMats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_Ind_Mats_Log2.bw
 shortLabel Ast_Gt_IndMats_Log2
 longLabel Ast_Gt_IndMats_Log2
 visibility full
@@ -2777,7 +1874,7 @@ type bigWig
 
 
 track Ast_Gt_IndPats_Log2
-bigDataUrl ../4C_BigWig/Ast_Gt_IndelPats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_Ind_Pats_Log2.bw
 shortLabel Ast_Gt_IndPats_Log2
 longLabel Ast_Gt_IndPats_Log2
 visibility full
@@ -2793,7 +1890,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Gt_CGIPats_Log2
-bigDataUrl ../4C_BigWig/Ast_Gt_CGIPats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_CGI_Pats_Log2.bw
 shortLabel Ast_Gt_CGIPats_Log2
 longLabel Ast_Gt_CGIPats_Log2
 visibility full
@@ -2809,7 +1906,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Dl_IGMats_Log2
-bigDataUrl ../4C_BigWig/Ast_Dl_IGMats_Log2new.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_IG_Mats_Log2.bw
 shortLabel Ast_Dl_IGMats_Log2
 longLabel Ast_Dl_IGMats_Log2
 visibility full
@@ -2826,7 +1923,7 @@ type bigWig
 
 
 track Ast_Dl_IGPats_Log2
-bigDataUrl ../4C_BigWig/Ast_Dl_IGPats_Log2new.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_IG_Pats_Log2.bw
 shortLabel Ast_Dl_IGPats_Log2
 longLabel Ast_Dl_IGPats_Log2
 visibility full
@@ -2842,7 +1939,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Dl_895Mats_Log2
-bigDataUrl ../4C_BigWig/Ast_Dl_895Mats_Log2new.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_895_Mats_Log2.bw
 shortLabel Ast_Dl_895Mats_Log2
 longLabel Ast_Dl_895Mats_Log2
 visibility full
@@ -2859,7 +1956,7 @@ type bigWig
 
 
 track Ast_Dl_895Pats_Log2
-bigDataUrl ../4C_BigWig/Ast_Dl_895Pats_Log2new.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_895_Pats_Log2.bw
 shortLabel Ast_Dl_895Pats_Log2
 longLabel Ast_Dl_895Pats_Log2
 visibility full
@@ -2875,7 +1972,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Dl_C6Mats_Log2
-bigDataUrl ../4C_BigWig/Ast_Dl_C6Mats_Log2new.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C6_Mats_Log2.bw
 shortLabel Ast_Dl_C6Mats_Log2
 longLabel Ast_Dl_C6Mats_Log2
 visibility full
@@ -2892,7 +1989,7 @@ type bigWig
 
 
 track Ast_Dl_C6Pats_Log2
-bigDataUrl ../4C_BigWig/Ast_Dl_C6Pats_Log2new.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C6_Pats_Log2new.bw
 shortLabel Ast_Dl_C6Pats_Log2
 longLabel Ast_Dl_C6Pats_Log2
 visibility full
@@ -2908,7 +2005,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Dl_C7Mats_Log2
-bigDataUrl ../4C_BigWig/Ast_Dl_C7Mats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C7_Mats_Log2.bw
 shortLabel Ast_Dl_C7Mats_Log2
 longLabel Ast_Dl_C7Mats_Log2
 visibility full
@@ -2925,7 +2022,7 @@ type bigWig
 
 
 track Ast_Dl_C7Pats_Log2
-bigDataUrl ../4C_BigWig/Ast_Dl_C7Pats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_C7_Pats_Log2.bw
 shortLabel Ast_Dl_C7Pats_Log2
 longLabel Ast_Dl_C7Pats_Log2
 visibility full
@@ -2941,7 +2038,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Dl_IndMats_Log2
-bigDataUrl ../4C_BigWig/Ast_Dl_IndelMats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Mats_Log2.bw
 shortLabel Ast_Dl_IndMats_Log2
 longLabel Ast_Dl_IndMats_Log2
 visibility full
@@ -2958,7 +2055,7 @@ type bigWig
 
 
 track Ast_Dl_IndPats_Log2
-bigDataUrl ../4C_BigWig/Ast_Dl_IndelPats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Pats_Log2.bw
 shortLabel Ast_Dl_IndPats_Log2
 longLabel Ast_Dl_IndPats_Log2
 visibility full
@@ -2974,7 +2071,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Dl_CGIPats_Log2
-bigDataUrl ../4C_BigWig/Ast_Dl_CGIPats_Log2new.bw
+bigDataUrl ../4C_BigWig/Ast_Dl_CGI_Pats_Log2new.bw
 shortLabel Ast_Dl_CGIPats_Log2
 longLabel Ast_Dl_CGIPats_Log2
 visibility full
@@ -2990,7 +2087,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Wd_IGMats_Log2
-bigDataUrl ../4C_BigWig/Ast_Wd_IGMats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Wd_IG_Mats_Log2.bw
 shortLabel Ast_Wd_IGMats_Log2
 longLabel Ast_Wd_IGMats_Log2
 visibility full
@@ -3007,7 +2104,7 @@ type bigWig
 
 
 track Ast_Wd_IGPats_Log2
-bigDataUrl ../4C_BigWig/Ast_Wd_IGPats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Wd_IG_Pats_Log2.bw
 shortLabel Ast_Wd_IGPats_Log2
 longLabel Ast_Wd_IGPats_Log2
 visibility full
@@ -3023,7 +2120,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Wd_895Mats_Log2
-bigDataUrl ../4C_BigWig/Ast_Wd_895Mats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Wd_895_Mats_Log2.bw
 shortLabel Ast_Wd_895Mats_Log2
 longLabel Ast_Wd_895Mats_Log2
 visibility full
@@ -3040,7 +2137,7 @@ type bigWig
 
 
 track Ast_Wd_895Pats_Log2
-bigDataUrl ../4C_BigWig/Ast_Wd_895Pats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Wd_895_Pats_Log2.bw
 shortLabel Ast_Wd_895Pats_Log2
 longLabel Ast_Wd_895Pats_Log2
 visibility full
@@ -3055,107 +2152,10 @@ altColor 0,150,255
 maxHeightPixels 100:50:8
 type bigWig
 
-track Ast_Wd_C6Mats_Log2
-bigDataUrl ../4C_BigWig/Ast_Wd_C6Mats_Log2.bw
-shortLabel Ast_Wd_C6Mats_Log2
-longLabel Ast_Wd_C6Mats_Log2
-visibility full
-autoScale off
-viewLimits -2:2
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
 
-
-track Ast_Wd_C6Pats_Log2
-bigDataUrl ../4C_BigWig/Ast_Wd_C6Pats_Log2.bw
-shortLabel Ast_Wd_C6Pats_Log2
-longLabel Ast_Wd_C6Pats_Log2
-visibility full
-autoScale off
-viewLimits -2:2
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-track Ast_Wd_C7Mats_Log2
-bigDataUrl ../4C_BigWig/Ast_Wd_C7Mats_Log2.bw
-shortLabel Ast_Wd_C7Mats_Log2
-longLabel Ast_Wd_C7Mats_Log2
-visibility full
-autoScale off
-viewLimits -2:2
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-
-track Ast_Wd_C7Pats_Log2
-bigDataUrl ../4C_BigWig/Ast_Wd_C7Pats_Log2.bw
-shortLabel Ast_Wd_C7Pats_Log2
-longLabel Ast_Wd_C7Pats_Log2
-visibility full
-autoScale off
-viewLimits -2:2
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-track Ast_Wd_IndMats_Log2
-bigDataUrl ../4C_BigWig/Ast_Wd_IndelMats_Log2.bw
-shortLabel Ast_Wd_IndMats_Log2
-longLabel Ast_Wd_IndMats_Log2
-visibility full
-autoScale off
-viewLimits -2:2
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-
-track Ast_Wd_IndPats_Log2
-bigDataUrl ../4C_BigWig/Ast_Wd_IndelPats_Log2.bw
-shortLabel Ast_Wd_IndPats_Log2
-longLabel Ast_Wd_IndPats_Log2
-visibility full
-autoScale off
-viewLimits -2:2
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
 
 track Ast_Wd_CGIPats_Log2
-bigDataUrl ../4C_BigWig/Ast_Wd_CGIPats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Wd_CGI_Pats_Log2.bw
 shortLabel Ast_Wd_CGIPats_Log2
 longLabel Ast_Wd_CGIPats_Log2
 visibility full
@@ -3171,53 +2171,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 
-track Liv_Wd_BC_Wts_Log2
-bigDataUrl ../4C_BigWig/Liv_Wd_BC_Wts_Log2.bw
-shortLabel Liv_Wd_BC_Wts_Log2
-longLabel Liv_Wd_BC_Wts_Log2
-visibility full
-autoScale off
-viewLimits -2:2
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
 
-track Liv_Gt_BC_Wts_Log2
-bigDataUrl ../4C_BigWig/Liv_Gt_BC_Wts_Log2.bw
-shortLabel Liv_Gt_BC_Wts_Log2
-longLabel Liv_Gt_BC_Wts_Log2
-visibility full
-autoScale off
-viewLimits -2:2
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-track Liv_Gt_IGMats_Log2
-bigDataUrl ../4C_BigWig/Liv_Gt_IGMats_Log2.bw
-shortLabel Liv_Gt_IGMats_Log2
-longLabel Liv_Gt_IGMats_Log2
-visibility full
-autoScale off
-viewLimits -2:2
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
 
 track Ast_Gt_WdCtMats_Log2
 bigDataUrl ../4C_BigWig/Ast_Gt_WdCtMats_Log2.bw
@@ -3306,201 +2260,6 @@ track Ast_AST_BC_Wts_Log2
 bigDataUrl ../4C_BigWig/Ast_AST_BCWts_Log2.bw
 shortLabel Ast_AST_BC_Wts_Log2
 longLabel Ast_AST_BC_Wts_Log2
-visibility full
-autoScale off
-viewLimits -2:2
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-track Ast_Gt_IndelPats1234
-container multiWig
-shortLabel Ast_Gt_IndelPats1234
-longLabel Ast_Gt_IndelPats1234
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Ast_Gt_IndelPats1234_pat
-bigDataUrl ../4C_BigWig/Ast_Gt_IndelPats1234_Bl6_pat.bw
-shortLabel Ast_Gt_IndelPats1234_pat_Bl6
-longLabel Ast_Gt_IndelPats1234_pat_Bl6
-parent Ast_Gt_IndelPats1234
-color 0,150,255
-type bigWig
-
-track Ast_Gt_IndelPats1234_mat
-bigDataUrl ../4C_BigWig/Ast_Gt_IndelPats1234_Cast_mat.bw
-shortLabel Ast_Gt_IndelPats1234_mat_Cast
-longLabel Ast_Gt_IndelPats1234_Cast
-parent Ast_Gt_IndelPats1234
-color 255,0,0
-type bigWig
-
-track Ast_Gt_IndelPats1234_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Gt_IndelPats1234_MatPatDiff.bw
-shortLabel Ast_Gt_IndelPats1234_MatPatDiff
-longLabel Ast_Gt_IndelPats1234_MatPatDiff
-visibility full
-autoScale off
-viewLimits -200:200
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-track Ast_Gt_IndPats1234_Log2
-bigDataUrl ../4C_BigWig/Ast_Gt_IndelPats1234_Log2.bw
-shortLabel Ast_Gt_IndPats1234_Log2
-longLabel Ast_Gt_IndPats1234_Log2
-visibility full
-autoScale off
-viewLimits -2:2
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-track Ast_Wd_WdCtMats
-container multiWig
-shortLabel Ast_Wd_WdCtMats
-longLabel Ast_Wd_WdCtMats
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Ast_Wd_WdCtMats_mat
-bigDataUrl ../4C_BigWig/Ast_Wd_WdCtMats_Bl6_mat.bw
-shortLabel Ast_Wd_WdCtMats_mat_Bl6
-longLabel Ast_Wd_WdCtMats_mat_Bl6
-parent Ast_Wd_WdCtMats
-color 255,0,0
-type bigWig
-
-track Ast_Wd_WdCtMats_pat
-bigDataUrl ../4C_BigWig/Ast_Wd_WdCtMats_Cast_pat.bw
-shortLabel Ast_Wd_WdCtMats_pat_Cast
-longLabel Ast_Wd_WdCtMats_pat_Cast
-parent Ast_Wd_WdCtMats
-color 0,150,255
-type bigWig
-
-track Ast_Wd_WdCtMats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Wd_WdCtMats_MatPatDiff.bw
-shortLabel Ast_Wd_WdCtMats_MatPatDiff
-longLabel Ast_Wd_WdCtMats_MatPatDiff
-visibility full
-autoScale off
-viewLimits -200:200
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-track Ast_Wd_WdCtMats_Log2
-bigDataUrl ../4C_BigWig/Ast_Wd_WdCtMats_Log2.bw
-shortLabel Ast_Wd_WdCtMats_Log2
-longLabel Ast_Wd_WdCtMats_Log2
-visibility full
-autoScale off
-viewLimits -2:2
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-track Ast_Wd_WdCtPats
-container multiWig
-shortLabel Ast_Wd_WdCtPats
-longLabel Ast_Wd_WdCtPats
-visibility full
-aggregate transparentOverlay
-showSubtrackColorOnUi on
-autoScale off
-viewLimits 0:500
-viewLimitsMax 0:100
-alwaysZero on
-yLineOnOff on
-smoothingWindow 5
-windowingFunction mean
-maxHeightPixels 100:80:8
-type bigWig
-
-track Ast_Wd_WdCtPats_pat
-bigDataUrl ../4C_BigWig/Ast_Wd_WdCtPats_Bl6_pat.bw
-shortLabel Ast_Wd_WdCtPats_pat_Bl6
-longLabel Ast_Wd_WdCtPats_pat_Bl6
-parent Ast_Wd_WdCtPats
-color 0,150,255
-type bigWig
-
-track Ast_Wd_WdCtPats_mat
-bigDataUrl ../4C_BigWig/Ast_Wd_WdCtPats_Cast_mat.bw
-shortLabel Ast_Wd_WdCtPats_mat_Cast
-longLabel Ast_Wd_WdCtPats_mat_Cast
-parent Ast_Wd_WdCtPats
-color 255,0,0
-type bigWig
-
-track Ast_Wd_WdCtPats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Wd_WdCtPats_MatPatDiff.bw
-shortLabel Ast_Wd_WdCtPats_MatPatDiff
-longLabel Ast_Wd_WdCtPats_MatPatDiff
-visibility full
-autoScale off
-viewLimits -200:200
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-track Ast_Wd_WdCtPats_Log2
-bigDataUrl ../4C_BigWig/Ast_Wd_WdCtPats_Log2.bw
-shortLabel Ast_Wd_WdCtPats_Log2
-longLabel Ast_Wd_WdCtPats_Log2
 visibility full
 autoScale off
 viewLimits -2:2
