@@ -1,0 +1,5 @@
+hub Astrocytes_cae28
+shortLabel Astrocytes_cae28
+longLabel Astrocytes_cae28
+genomesFile genomes.txt
+email cae28@cam.ac.uk
