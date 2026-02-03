@@ -1182,10 +1182,10 @@ altColor 0,150,255
 maxHeightPixels 100:50:8
 type bigWig
 
-track Ast_Dl_IndelPats
+track Ast_Dl_IndelPat1
 container multiWig
-shortLabel Ast_Dl_IndelPats
-longLabel Ast_Dl_IndelPats
+shortLabel Ast_Dl_IndelPat1
+longLabel Ast_Dl_IndelPat1
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -1199,26 +1199,26 @@ windowingFunction mean
 maxHeightPixels 100:80:8
 type bigWig
 
-track Ast_Dl_IndelPats_pat
-bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Pats_CBA_pat.bw
-shortLabel Ast_Dl_IndelPats_pat_Bl6
-longLabel Ast_Dl_IndelPats_pat_Bl6
-parent Ast_Dl_IndelPats
+track Ast_Dl_IndelPat1_pat
+bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Pat1_CBA_pat.bw
+shortLabel Ast_Dl_IndelPat1_pat_Bl6
+longLabel Ast_Dl_IndelPat1_pat_Bl6
+parent Ast_Dl_IndelPat1
 color 0,150,255
 type bigWig
 
-track Ast_Dl_IndelPats_mat
-bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Pats_Cast_mat.bw
-shortLabel Ast_Dl_IndelPats_mat_Cast
-longLabel Ast_Dl_IndelPats_mat_Cast
-parent Ast_Dl_IndelPats
+track Ast_Dl_IndelPat1_mat
+bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Pat1_Cast_mat.bw
+shortLabel Ast_Dl_IndelPat1_mat_Cast
+longLabel Ast_Dl_IndelPat1_mat_Cast
+parent Ast_Dl_IndelPat1
 color 255,0,0
 type bigWig
 
-track Ast_Dl_IndelPats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Pats_MatPatDiff.bw
-shortLabel Ast_Dl_IndelPats_MatPatDiff
-longLabel Ast_Dl_IndelPats_MatPatDiff
+track Ast_Dl_IndelPat1_MatPatDiff
+bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Pat1_MatPatDiff.bw
+shortLabel Ast_Dl_IndelPat1_MatPatDiff
+longLabel Ast_Dl_IndelPat1_MatPatDiff
 visibility full
 autoScale off
 viewLimits -200:200
@@ -1955,10 +1955,10 @@ maxHeightPixels 100:50:8
 type bigWig
 
 
-track Ast_Dl_IndPats_Log2
-bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Pats_Log2.bw
-shortLabel Ast_Dl_IndPats_Log2
-longLabel Ast_Dl_IndPats_Log2
+track Ast_Dl_IndPat1_Log2
+bigDataUrl ../4C_BigWig/Ast_Dl_Ind_Pat1_Log2.bw
+shortLabel Ast_Dl_IndPat1_Log2
+longLabel Ast_Dl_IndPat1_Log2
 visibility full
 autoScale off
 viewLimits -2:2
@@ -1987,38 +1987,6 @@ altColor 0,150,255
 maxHeightPixels 100:50:8
 type bigWig
 
-track Ast_Wd_IGMats_Log2
-bigDataUrl ../4C_BigWig/Ast_Wd_IG_Mats_Log2.bw
-shortLabel Ast_Wd_IGMats_Log2
-longLabel Ast_Wd_IGMats_Log2
-visibility full
-autoScale off
-viewLimits -2:2
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
-
-
-track Ast_Wd_IGPats_Log2
-bigDataUrl ../4C_BigWig/Ast_Wd_IG_Pats_Log2.bw
-shortLabel Ast_Wd_IGPats_Log2
-longLabel Ast_Wd_IGPats_Log2
-visibility full
-autoScale off
-viewLimits -2:2
-smoothingWindow 5
-alwaysZero on
-yLineOnOff on
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-maxHeightPixels 100:50:8
-type bigWig
 
 track Ast_Wd_895Mats_Log2
 bigDataUrl ../4C_BigWig/Ast_Wd_895_Mats_Log2.bw
