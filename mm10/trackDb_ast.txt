@@ -2450,7 +2450,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Gt_WdCtMats_mat
-bigDataUrl ../4C_BigWig/Ast_Gt_WdCtMats_Bl6_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_WdCT_Mats_Bl6_mat.bw
 shortLabel Ast_Gt_WdCtMats_mat_Bl6
 longLabel Ast_Gt_WdCtMats_mat_Bl6
 parent Ast_Gt_WdCtMats
@@ -2458,7 +2458,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Gt_WdCtMats_pat
-bigDataUrl ../4C_BigWig/Ast_Gt_WdCtMats_Cast_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_WdCT_Mats_Cast_pat.bw
 shortLabel Ast_Gt_WdCtMats_pat_Cast
 longLabel Ast_Gt_WdCtMats_pat_Cast
 parent Ast_Gt_WdCtMats
@@ -2466,7 +2466,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Gt_WdCtMats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Gt_WdCtMats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_WdCT_Mats_MatPatDiff.bw
 shortLabel Ast_Gt_WdCtMats_MatPatDiff
 longLabel Ast_Gt_WdCtMats_MatPatDiff
 visibility full
@@ -2482,7 +2482,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Gt_WdCtMats_Log2
-bigDataUrl ../4C_BigWig/Ast_Gt_WdCtMats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_WdCT_Mats_Log2.bw
 shortLabel Ast_Gt_WdCtMats_Log2
 longLabel Ast_Gt_WdCtMats_Log2
 visibility full
@@ -2515,7 +2515,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_Gt_WdCtPats_pat
-bigDataUrl ../4C_BigWig/Ast_Gt_WdCtPats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_WdCT_Pats_Bl6_pat.bw
 shortLabel Ast_Gt_WdCtPats_pat_Bl6
 longLabel Ast_Gt_WdCtPats_pat_Bl6
 parent Ast_Gt_WdCtPats
@@ -2523,7 +2523,7 @@ color 0,150,255
 type bigWig
 
 track Ast_Gt_WdCtPats_mat
-bigDataUrl ../4C_BigWig/Ast_Gt_WdCtPats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_WdCT_Pats_Cast_mat.bw
 shortLabel Ast_Gt_WdCtPats_mat_Cast
 longLabel Ast_Gt_WdCtPats_mat_Cast
 parent Ast_Gt_WdCtPats
@@ -2531,7 +2531,7 @@ color 255,0,0
 type bigWig
 
 track Ast_Gt_WdCtPats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_Gt_WdCtPats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_WdCT_Pats_MatPatDiff.bw
 shortLabel Ast_Gt_WdCtPats_MatPatDiff
 longLabel Ast_Gt_WdCtPats_MatPatDiff
 visibility full
@@ -2547,7 +2547,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_Gt_WdCtPats_Log2
-bigDataUrl ../4C_BigWig/Ast_Gt_WdCtPats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_Gt_WdCT_Pats_Log2.bw
 shortLabel Ast_Gt_WdCtPats_Log2
 longLabel Ast_Gt_WdCtPats_Log2
 visibility full
@@ -2580,7 +2580,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_AST_WdCtMats_mat
-bigDataUrl ../4C_BigWig/Ast_AST_WdCtMats_Bl6_mat.bw
+bigDataUrl ../4C_BigWig/Ast_AST_WdCT_Mats_Bl6_mat.bw
 shortLabel Ast_AST_WdCtMats_mat_Bl6
 longLabel Ast_AST_WdCtMats_mat_Bl6
 parent Ast_AST_WdCtMats
@@ -2588,7 +2588,7 @@ color 255,0,0
 type bigWig
 
 track Ast_AST_WdCtMats_pat
-bigDataUrl ../4C_BigWig/Ast_AST_WdCtMats_Cast_pat.bw
+bigDataUrl ../4C_BigWig/Ast_AST_WdCT_Mats_Cast_pat.bw
 shortLabel Ast_AST_WdCtMats_pat_Cast
 longLabel Ast_AST_WdCtMats_pat_Cast
 parent Ast_AST_WdCtMats
@@ -2596,7 +2596,7 @@ color 0,150,255
 type bigWig
 
 track Ast_AST_WdCtMats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_AST_WdCtMats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_AST_WdCT_Mats_MatPatDiff.bw
 shortLabel Ast_AST_WdCtMats_MatPatDiff
 longLabel Ast_AST_WdCtMats_MatPatDiff
 visibility full
@@ -2612,7 +2612,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_AST_WdCtMats_Log2
-bigDataUrl ../4C_BigWig/Ast_AST_WdCtMats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_AST_WdCT_Mats_Log2.bw
 shortLabel Ast_AST_WdCtMats_Log2
 longLabel Ast_AST_WdCtMats_Log2
 visibility full
@@ -2645,7 +2645,7 @@ maxHeightPixels 100:80:8
 type bigWig
 
 track Ast_AST_WdCtPats_pat
-bigDataUrl ../4C_BigWig/Ast_AST_WdCtPats_Bl6_pat.bw
+bigDataUrl ../4C_BigWig/Ast_AST_WdCT_Pats_Bl6_pat.bw
 shortLabel Ast_AST_WdCtPats_pat_Bl6
 longLabel Ast_AST_WdCtPats_pat_Bl6
 parent Ast_AST_WdCtPats
@@ -2653,7 +2653,7 @@ color 0,150,255
 type bigWig
 
 track Ast_AST_WdCtPats_mat
-bigDataUrl ../4C_BigWig/Ast_AST_WdCtPats_Cast_mat.bw
+bigDataUrl ../4C_BigWig/Ast_AST_WdCT_Pats_Cast_mat.bw
 shortLabel Ast_AST_WdCtPats_mat_Cast
 longLabel Ast_AST_WdCtPats_mat_Cast
 parent Ast_AST_WdCtPats
@@ -2661,7 +2661,7 @@ color 255,0,0
 type bigWig
 
 track Ast_AST_WdCtPats_MatPatDiff
-bigDataUrl ../4C_BigWig/Ast_AST_WdCtPats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Ast_AST_WdCT_Pats_MatPatDiff.bw
 shortLabel Ast_AST_WdCtPats_MatPatDiff
 longLabel Ast_AST_WdCtPats_MatPatDiff
 visibility full
@@ -2677,7 +2677,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Ast_AST_WdCtPats_Log2
-bigDataUrl ../4C_BigWig/Ast_AST_WdCtPats_Log2.bw
+bigDataUrl ../4C_BigWig/Ast_AST_WdCT_Pats_Log2.bw
 shortLabel Ast_AST_WdCtPats_Log2
 longLabel Ast_AST_WdCtPats_Log2
 visibility full
