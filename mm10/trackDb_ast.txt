@@ -2714,12 +2714,12 @@ track P0Br_Gt_BC_Wts_mat
 bigDataUrl ../4C_BigWig/P0Br_Gt_BC_Wts_Bl6_mat.bw
 shortLabel P0Br_Gt_BC_Wts_mat_Bl6
 longLabel P0Br_Gt_BC_Wts_mat_Bl6
-parent Ast_Gt_BC_Wts
+parent P0Br_Gt_BC_Wts
 color 255,0,0
 yLineOnOff on 
 type bigWig
 
-track P0Br__Gt_BC_Wts_pat
+track P0Br_Gt_BC_Wts_pat
 bigDataUrl ../4C_BigWig/P0Br_Gt_BC_Wts_Cast_pat.bw
 shortLabel P0Br__Gt_BC_Wts_pat_Cast
 longLabel P0Br__Gt_BC_Wts_pat_Cast
