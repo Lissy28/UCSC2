@@ -2691,3 +2691,71 @@ color 255,0,0
 altColor 0,150,255
 maxHeightPixels 100:50:8
 type bigWig
+
+
+track P0Br_Gt_BC_Wts
+container multiWig
+shortLabel P0Br_Gt_BC_Wts
+longLabel P0Br_Gt_BC_Wts
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+autoScale off
+viewLimits 0:500
+viewLimitsMax 0:100
+alwaysZero on
+yLineOnOff on 
+smoothingWindow 5
+windowingFunction mean
+maxHeightPixels 100:80:8
+type bigWig
+
+track P0Br_Gt_BC_Wts_mat
+bigDataUrl ../4C_BigWig/P0Br_Gt_BC_Wts_Bl6_mat.bw
+shortLabel P0Br_Gt_BC_Wts_mat_Bl6
+longLabel P0Br_Gt_BC_Wts_mat_Bl6
+parent Ast_Gt_BC_Wts
+color 255,0,0
+yLineOnOff on 
+type bigWig
+
+track P0Br__Gt_BC_Wts_pat
+bigDataUrl ../4C_BigWig/P0Br_Gt_BC_Wts_Cast_pat.bw
+shortLabel P0Br__Gt_BC_Wts_pat_Cast
+longLabel P0Br__Gt_BC_Wts_pat_Cast
+parent P0Br_Gt_BC_Wts
+color 0,150,255
+yLineOnOff on 
+type bigWig
+
+track P0Br_Gt_BC_Wts_MatPatDiff
+bigDataUrl ../4C_BigWig/P0Br_Gt_BC_Wts_MatPatDiff.bw
+shortLabel P0Br_Gt_BC_Wts_MatPatDiff
+longLabel P0Br_Gt_BC_Wts_MatPatDiff
+visibility full
+autoScale off
+viewLimits -200:200
+smoothingWindow 5
+alwaysZero on
+yLineOnOff on
+windowingFunction mean
+color 255,0,0
+altColor 0,150,255
+maxHeightPixels 100:50:8
+type bigWig
+
+track P0Br_Gt_BC_Wts_Log2
+bigDataUrl ../4C_BigWig/P0Br_Gt_BC_Wts_Log2.bw
+shortLabel P0Br_Gt_BC_Wts_Log2
+longLabel P0Br_Gt_BC_Wts_Log2
+visibility full
+autoScale off
+viewLimits -2:2
+smoothingWindow 5
+alwaysZero on
+yLineOnOff on
+windowingFunction mean
+color 255,0,0
+altColor 0,150,255
+maxHeightPixels 100:50:8
+type bigWig
