@@ -2913,7 +2913,7 @@ track Ast_AST_895Pat2_pat
 bigDataUrl ../4C_BigWig/AST_Ast_895_Pat2_Bl6_pat.bw
 shortLabel Ast_AST_895Pat2_pat_Bl6
 longLabel Ast_AST_895Pat2_pat_Bl6
-parent Ast_AST_895Pats
+parent Ast_AST_895Pat2
 color 0,150,255
 type bigWig
 
