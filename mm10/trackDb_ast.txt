@@ -2921,7 +2921,7 @@ track Ast_AST_895Pat2_mat
 bigDataUrl ../4C_BigWig/AST_Ast_895_Pat2_Cast_mat.bw
 shortLabel Ast_AST_895Pat2_mat_Cast
 longLabel Ast_AST_895Pat2_mat_Cast
-parent Ast_AST_895Pats
+parent Ast_AST_895Pat2
 color 255,0,0
 type bigWig
 
